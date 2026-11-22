@@ -1,0 +1,10 @@
+STUDENT REPORT
+========================================
+
+id: 1
+student_id: ST101
+name: vaishnavi
+age: 19
+email: vaishnavi2@gmail.com
+department: IT
+
